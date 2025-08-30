@@ -1,0 +1,1121 @@
+{
+  "menu": {
+    "Soups": [
+      {
+        "name_english": "Cream of Tomato",
+        "name_gujarati": "",
+        "price": 115,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Ministron",
+        "name_gujarati": "",
+        "price": 125,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Asian Veg.",
+        "name_gujarati": "",
+        "price": 130,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Lemon Coriander",
+        "name_gujarati": "",
+        "price": 130,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Sweet Corn. Veg.",
+        "name_gujarati": "",
+        "price": 125,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Noodles",
+        "name_gujarati": "",
+        "price": 125,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Mashroom",
+        "name_gujarati": "",
+        "price": 125,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Hot and Sour",
+        "name_gujarati": "",
+        "price": 125,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Monchow",
+        "name_gujarati": "",
+        "price": 125,
+        "ingredients": ""
+      }
+    ],
+    "Starters": [
+      {
+        "name_english": "Paneer Tikka Dry",
+        "name_gujarati": "",
+        "price": 290,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Hariyali  Tikka",
+        "name_gujarati": "",
+        "price": 295,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Harabhara Kabab",
+        "name_gujarati": "",
+        "price": 260,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Crunchy",
+        "name_gujarati": "",
+        "price": 270,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Lollypop",
+        "name_gujarati": "",
+        "price": 255,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Chilly Dry",
+        "name_gujarati": "",
+        "price": 245,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Manchurian Dry",
+        "name_gujarati": "",
+        "price": 205,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Spring Roll",
+        "name_gujarati": "",
+        "price": 260,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Mumtai",
+        "name_gujarati": "",
+        "price": 255,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Crispy",
+        "name_gujarati": "",
+        "price": 225,
+        "ingredients": ""
+      }
+    ],
+    "Salad": [
+      {
+        "name_english": "Green Salad",
+        "name_gujarati": "",
+        "price": 95,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Tomato Salad",
+        "name_gujarati": "",
+        "price": 85,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kakadi Salad",
+        "name_gujarati": "",
+        "price": 85,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kachumber",
+        "name_gujarati": "",
+        "price": 105,
+        "ingredients": ""
+      }
+    ],
+    "Raita": [
+      {
+        "name_english": "Pineapple Raita",
+        "name_gujarati": "",
+        "price": 110,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Raita",
+        "name_gujarati": "",
+        "price": 95,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Boondi Raita",
+        "name_gujarati": "",
+        "price": 100,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Tomato Kakdi Raita",
+        "name_gujarati": "",
+        "price": 95,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Curd",
+        "name_gujarati": "",
+        "price": 80,
+        "ingredients": ""
+      }
+    ],
+    "Punjabi": [
+      {
+        "name_english": "Veg. Kaju Singapuri",
+        "name_gujarati": "",
+        "price": 270,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Makhanwala",
+        "name_gujarati": "",
+        "price": 255,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Kadai",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Jaipuri",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Kolhapuri",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Handi",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Harabhara",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Tava Masala",
+        "name_gujarati": "",
+        "price": 245,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Balti",
+        "name_gujarati": "",
+        "price": 245,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Jwalamukhi",
+        "name_gujarati": "",
+        "price": 270,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Pesavari",
+        "name_gujarati": "",
+        "price": 260,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kadai Paneer",
+        "name_gujarati": "",
+        "price": 255,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Handi Paneer",
+        "name_gujarati": "",
+        "price": 285,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kaju Paneer Masala",
+        "name_gujarati": "",
+        "price": 265,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Angara",
+        "name_gujarati": "",
+        "price": 275,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Butter Masala",
+        "name_gujarati": "",
+        "price": 265,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Pasanda",
+        "name_gujarati": "",
+        "price": 275,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Bhurji",
+        "name_gujarati": "",
+        "price": 255,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Lashuniya Paneer",
+        "name_gujarati": "",
+        "price": 270,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Toofani",
+        "name_gujarati": "",
+        "price": 270,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Patiyala",
+        "name_gujarati": "",
+        "price": 255,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Tava Paneer",
+        "name_gujarati": "",
+        "price": 260,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Balti Paneer",
+        "name_gujarati": "",
+        "price": 265,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Matar Paneer",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Palak Paneer",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Butter Masala",
+        "name_gujarati": "",
+        "price": 270,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Garlic Tava",
+        "name_gujarati": "",
+        "price": 275,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Garlic Palak Masala",
+        "name_gujarati": "",
+        "price": 265,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Kaju Masala",
+        "name_gujarati": "",
+        "price": 275,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Hungama",
+        "name_gujarati": "",
+        "price": 285,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Mushroom Masala",
+        "name_gujarati": "",
+        "price": 270,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Navratna Korma",
+        "name_gujarati": "",
+        "price": 260,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kaju Curry",
+        "name_gujarati": "",
+        "price": 255,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Khoya Kaju",
+        "name_gujarati": "",
+        "price": 275,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kaju Fried Masala",
+        "name_gujarati": "",
+        "price": 275,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kaju Fried Diwani Handi",
+        "name_gujarati": "",
+        "price": 280,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Malai Kofta",
+        "name_gujarati": "",
+        "price": 245,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Nargishi Kofta",
+        "name_gujarati": "",
+        "price": 270,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Aloo Chatpata",
+        "name_gujarati": "",
+        "price": 230,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Aloo Capsicum",
+        "name_gujarati": "",
+        "price": 245,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Dum Aloo",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Aloo Matar",
+        "name_gujarati": "",
+        "price": 230,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Stuff Tomato",
+        "name_gujarati": "",
+        "price": 260,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Baingan Bharta",
+        "name_gujarati": "",
+        "price": 175,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Mix. Vegetable",
+        "name_gujarati": "",
+        "price": 175,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Channa Masala",
+        "name_gujarati": "",
+        "price": 200,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Sev Tomato",
+        "name_gujarati": "",
+        "price": 175,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Dal Palak",
+        "name_gujarati": "",
+        "price": 175,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Dal Fry Tadka",
+        "name_gujarati": "",
+        "price": 170,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Dal Fry",
+        "name_gujarati": "",
+        "price": 145,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Dal Makhani",
+        "name_gujarati": "",
+        "price": 210,
+        "ingredients": ""
+      }
+    ],
+    "RicePunjabi": [
+      {
+        "name_english": "Veg. Pulao",
+        "name_gujarati": "",
+        "price": 200,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kashmiri Pulao",
+        "name_gujarati": "",
+        "price": 225,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Biriyani",
+        "name_gujarati": "",
+        "price": 220,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Junglee Biriyani",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Handi Biriyani",
+        "name_gujarati": "",
+        "price": 225,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Hyrabadi Biriyani",
+        "name_gujarati": "",
+        "price": 220,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Palak Pulao",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      }
+
+    ],
+    "Chinese": [
+      {
+        "name_english": "Manchurian in Garlic Sauce",
+        "name_gujarati": "",
+        "price": 250,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Chilly",
+        "name_gujarati": "",
+        "price": 245,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Mumtai",
+        "name_gujarati": "",
+        "price": 255,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Schezwan Finger",
+        "name_gujarati": "",
+        "price": 265,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Crispy",
+        "name_gujarati": "",
+        "price": 225,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Mushroom Manchurian",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Manchurian",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Manchurian",
+        "name_gujarati": "",
+        "price": 205,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Mushroom Chilly",
+        "name_gujarati": "",
+        "price": 240,
+        "ingredients": ""
+      },
+      {
+        "name_english": "American Chopsy",
+        "name_gujarati": "",
+        "price": 230,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Schezwan Noodles",
+        "name_gujarati": "",
+        "price": 235,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Hakka Noodles",
+        "name_gujarati": "",
+        "price": 220,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Chinese Bhel",
+        "name_gujarati": "",
+        "price": 230,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Spring Roll",
+        "name_gujarati": "",
+        "price": 260,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Cheese Spring Roll",
+        "name_gujarati": "",
+        "price": 285,
+        "ingredients": ""
+      }
+    
+    ],
+    "RiceChinese": [
+      {
+        "name_english": "Chinese Fried Rice",
+        "name_gujarati": "",
+        "price": 220,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Hong Kong Fried Rice",
+        "name_gujarati": "",
+        "price": 220,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Fried Rice",
+        "name_gujarati": "",
+        "price": 205,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Mexican Fried Rice",
+        "name_gujarati": "",
+        "price": 215,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Onion Fried Rice",
+        "name_gujarati": "",
+        "price": 200,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Mushroom Fried Rice",
+        "name_gujarati": "",
+        "price": 220,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Manchurian Fried Rice",
+        "name_gujarati": "",
+        "price": 210,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Schezwan Fried Rice",
+        "name_gujarati": "",
+        "price": 220,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Jeera Fried Rice",
+        "name_gujarati": "",
+        "price": 170,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Plain Rice",
+        "name_gujarati": "",
+        "price": 145,
+        "ingredients": ""
+      }
+    ],
+    "Tandoor": [
+      {
+        "name_english": "Tandoor Roti",
+        "name_gujarati": "",
+        "price": 30,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Tandoor Butter Roti",
+        "name_gujarati": "",
+        "price": 32,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Plain Chapati",
+        "name_gujarati": "",
+        "price": 22,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Butter Chapati",
+        "name_gujarati": "",
+        "price": 24,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Tava Parotha",
+        "name_gujarati": "",
+        "price": 46,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Parotha",
+        "name_gujarati": "",
+        "price": 44,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Butter Parotha",
+        "name_gujarati": "",
+        "price": 46,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Aloo Parotha (Curd)",
+        "name_gujarati": "",
+        "price": 175,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Naan",
+        "name_gujarati": "",
+        "price": 50,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Butter Naan",
+        "name_gujarati": "",
+        "price": 53,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Naan",
+        "name_gujarati": "",
+        "price": 150,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Garlic Naan",
+        "name_gujarati": "",
+        "price": 140,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kashmiri Naan",
+        "name_gujarati": "",
+        "price": 145,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Garlic Chilli Naan",
+        "name_gujarati": "",
+        "price": 150,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kulcha",
+        "name_gujarati": "",
+        "price": 50,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Butter Kulcha",
+        "name_gujarati": "",
+        "price": 52,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Onion Kulcha",
+        "name_gujarati": "",
+        "price": 130,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Roasted Papad",
+        "name_gujarati": "",
+        "price": 25,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Fry Papad",
+        "name_gujarati": "",
+        "price": 28,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Masala Papad",
+        "name_gujarati": "",
+        "price": 42,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Masala Papad",
+        "name_gujarati": "",
+        "price": 60,
+        "ingredients": ""
+      }
+    ],
+    "DalBati": [
+      {
+        "name_english": "Dal, Bati-3, Kachumber, Ghee, Juggery",
+        "name_gujarati": "",
+        "price": 210,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Extra Bati - 1",
+        "name_gujarati": "",
+        "price": 22,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Dal -Plate",
+        "name_gujarati": "",
+        "price": 145,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Bati Churma",
+        "name_gujarati": "",
+        "price": 180,
+        "ingredients": ""
+      }
+    ],
+    "Continental": [
+      {
+        "name_english": "Rajasthan Special Sizzler",
+        "name_gujarati": "",
+        "price": 500,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Stick Sizzler",
+        "name_gujarati": "",
+        "price": 470,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Pineapple Stick Sizzler",
+        "name_gujarati": "",
+        "price": 470,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Tikka Sizzler",
+        "name_gujarati": "",
+        "price": 470,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Green Stick Sizzler",
+        "name_gujarati": "",
+        "price": 465,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Stick Sizzler",
+        "name_gujarati": "",
+        "price": 490,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Baked Macroni",
+        "name_gujarati": "",
+        "price": 370,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Macroni in Pineapples",
+        "name_gujarati": "",
+        "price": 375,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Spaghetti",
+        "name_gujarati": "",
+        "price": 370,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Spaghetti in Pineapple",
+        "name_gujarati": "",
+        "price": 380,
+        "ingredients": ""
+      }
+    ],
+    "Snacks": [
+      {
+        "name_english": "Cheese Sandwich",
+        "name_gujarati": "",
+        "price": 195,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Club Sandwich",
+        "name_gujarati": "",
+        "price": 200,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Sandwich",
+        "name_gujarati": "",
+        "price": 175,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Bread Butter",
+        "name_gujarati": "",
+        "price": 155,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Toast Butter Jam",
+        "name_gujarati": "",
+        "price": 165,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Toast Butter Sandwich",
+        "name_gujarati": "",
+        "price": 175,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Cutlet",
+        "name_gujarati": "",
+        "price": 165,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Paneer Pakoda",
+        "name_gujarati": "",
+        "price": 180,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cheese Pakoda",
+        "name_gujarati": "",
+        "price": 205,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Veg. Pakoda",
+        "name_gujarati": "",
+        "price": 165,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Potato Chips",
+        "name_gujarati": "",
+        "price": 160,
+        "ingredients": ""
+      }
+    ],
+    "HotColdDrink": [
+      {
+        "name_english": "Tea",
+        "name_gujarati": "",
+        "price": 45,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Coffee",
+        "name_gujarati": "",
+        "price": 55,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Special Lassi",
+        "name_gujarati": "",
+        "price": 115,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Lassi (Sweet)",
+        "name_gujarati": "",
+        "price": 90,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Jaljeera Water",
+        "name_gujarati": "",
+        "price": 45,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Fresh Lime Soda",
+        "name_gujarati": "",
+        "price": 60,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Butter Milk",
+        "name_gujarati": "",
+        "price": 26,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Masala Butter Milk",
+        "name_gujarati": "",
+        "price": 37,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Soft Drinks",
+        "name_gujarati": "",
+        "price": 15,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Soda",
+        "name_gujarati": "",
+        "price": 20,
+        "ingredients": ""
+      },
+      {
+        "name_english": "Mineral Water",
+        "name_gujarati": "",
+        "price": 20,
+        "ingredients": ""
+      }
+    ],
+    "Ice Cream": [
+      {
+        "name_english": "King Cone",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kesar Pista",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Raj Bhog",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "American Nut",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Chocolate Chips",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Butter Scotch ",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Kaju Draksh",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Vanilla",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Cussata",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Chocobar Candy",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Mango Dolly Candy",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Zoolubar",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      },
+      {
+        "name_english": "Chopaty Candy",
+        "name_gujarati": "",
+        "price": "",
+        "ingredients": ""
+      }
+  
+    ]
+  }
+}
