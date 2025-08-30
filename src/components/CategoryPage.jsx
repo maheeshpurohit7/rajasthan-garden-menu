@@ -119,7 +119,7 @@ export default function CategoryPage({ title, items, onBack }) {
                     <div className="mt-2 text-[#D4AF37] leading-relaxed">
                       {items[selectedIndex].ingredients
                         ? items[selectedIndex].ingredients
-                        : "No ingredients listed"}
+                        : "Will be listed soon..."}
                     </div>
                   </div>
                   <button
