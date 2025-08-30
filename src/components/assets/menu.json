@@ -26,7 +26,7 @@
         "ingredients": ""
       },
       {
-        "name_english": "Sweet Corn. Veg.",
+        "name_english": "Sweet Corn Veg.",
         "name_gujarati": "",
         "price": 125,
         "ingredients": ""
@@ -38,19 +38,19 @@
         "ingredients": ""
       },
       {
-        "name_english": "Veg. Mashroom",
+        "name_english": "Veg. Mushroom",
         "name_gujarati": "",
         "price": 125,
         "ingredients": ""
       },
       {
-        "name_english": "Veg. Hot and Sour",
+        "name_english": "Veg. Hot & Sour",
         "name_gujarati": "",
         "price": 125,
         "ingredients": ""
       },
       {
-        "name_english": "Veg. Monchow",
+        "name_english": "Veg. Manchow",
         "name_gujarati": "",
         "price": 125,
         "ingredients": ""
@@ -64,13 +64,13 @@
         "ingredients": ""
       },
       {
-        "name_english": "Paneer Hariyali  Tikka",
+        "name_english": "Paneer Hariyali Tikka",
         "name_gujarati": "",
         "price": 295,
         "ingredients": ""
       },
       {
-        "name_english": "Harabhara Kabab",
+        "name_english": "Hara Bhara Kabab",
         "name_gujarati": "",
         "price": 260,
         "ingredients": ""
@@ -82,7 +82,7 @@
         "ingredients": ""
       },
       {
-        "name_english": "Veg. Lollypop",
+        "name_english": "Veg. Lollipop",
         "name_gujarati": "",
         "price": 255,
         "ingredients": ""
@@ -286,7 +286,7 @@
         "ingredients": ""
       },
       {
-        "name_english": "Lashuniya Paneer",
+        "name_english": "Lahsuniya Paneer",
         "name_gujarati": "",
         "price": 270,
         "ingredients": ""
@@ -516,7 +516,7 @@
         "ingredients": ""
       },
       {
-        "name_english": "Hyrabadi Biriyani",
+        "name_english": "Hyderabadi Biryani",
         "name_gujarati": "",
         "price": 220,
         "ingredients": ""
@@ -549,7 +549,7 @@
         "ingredients": ""
       },
       {
-        "name_english": "Paneer Schezwan Finger",
+        "name_english": "Paneer Schezwan Fingers",
         "name_gujarati": "",
         "price": 265,
         "ingredients": ""
@@ -710,25 +710,25 @@
         "ingredients": ""
       },
       {
-        "name_english": "Tava Parotha",
+        "name_english": "Tava Paratha",
         "name_gujarati": "",
         "price": 46,
         "ingredients": ""
       },
       {
-        "name_english": "Parotha",
+        "name_english": "Paratha",
         "name_gujarati": "",
         "price": 44,
         "ingredients": ""
       },
       {
-        "name_english": "Butter Parotha",
+        "name_english": "Butter Paratha",
         "name_gujarati": "",
         "price": 46,
         "ingredients": ""
       },
       {
-        "name_english": "Aloo Parotha (Curd)",
+        "name_english": "Aloo Paratha (Curd)",
         "name_gujarati": "",
         "price": 175,
         "ingredients": ""
@@ -794,7 +794,7 @@
         "ingredients": ""
       },
       {
-        "name_english": "Fry Papad",
+        "name_english": "Fried Papad",
         "name_gujarati": "",
         "price": 28,
         "ingredients": ""
@@ -814,7 +814,7 @@
     ],
     "DalBati": [
       {
-        "name_english": "Dal, Bati-3, Kachumber, Ghee, Juggery",
+        "name_english": "Dal, Bati-3, Kachumber, Ghee, Jaggery",
         "name_gujarati": "",
         "price": 210,
         "ingredients": ""
@@ -826,13 +826,13 @@
         "ingredients": ""
       },
       {
-        "name_english": "Dal -Plate",
+        "name_english": "Dal - Plate",
         "name_gujarati": "",
         "price": 145,
         "ingredients": ""
       },
       {
-        "name_english": "Bati Churma",
+        "name_english": "Baati Churma",
         "name_gujarati": "",
         "price": 180,
         "ingredients": ""
@@ -876,13 +876,13 @@
         "ingredients": ""
       },
       {
-        "name_english": "Baked Macroni",
+        "name_english": "Baked Macaroni",
         "name_gujarati": "",
         "price": 370,
         "ingredients": ""
       },
       {
-        "name_english": "Macroni in Pineapples",
+        "name_english": "Macaroni in Pineapples",
         "name_gujarati": "",
         "price": 375,
         "ingredients": ""
@@ -926,7 +926,7 @@
         "ingredients": ""
       },
       {
-        "name_english": "Toast Butter Jam",
+        "name_english": "Toast Butter & Jam",
         "name_gujarati": "",
         "price": 165,
         "ingredients": ""
@@ -1006,13 +1006,13 @@
         "ingredients": ""
       },
       {
-        "name_english": "Butter Milk",
+        "name_english": "Buttermilk",
         "name_gujarati": "",
         "price": 26,
         "ingredients": ""
       },
       {
-        "name_english": "Masala Butter Milk",
+        "name_english": "Masala Buttermilk",
         "name_gujarati": "",
         "price": 37,
         "ingredients": ""
@@ -1086,7 +1086,7 @@
         "ingredients": ""
       },
       {
-        "name_english": "Cussata",
+        "name_english": "Cassata",
         "name_gujarati": "",
         "price": "",
         "ingredients": ""
